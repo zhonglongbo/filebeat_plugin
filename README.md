@@ -1,1 +1,3 @@
-filebeat 源码：https://github.com/elastic/beats.git
+add_sample_metadata 是一个采样插件
+
+dissect_query 是一个解析query的插件
